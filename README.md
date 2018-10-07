@@ -4,6 +4,8 @@
 
 以下の動画を参考にしてください。
 
+https://github.com/junyamorita1030/speechtotextstream/blob/master/stt_from_mic.mov
+
 
 
 ## How to use
